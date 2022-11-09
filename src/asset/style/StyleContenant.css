@@ -1,0 +1,13 @@
+.formVehicule{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+.divFormVehicule{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.divFormClient{
+    display: flex;
+    flex-direction: row-reverse;
+}

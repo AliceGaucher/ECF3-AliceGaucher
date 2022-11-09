@@ -1,0 +1,24 @@
+.gridBoxHome{
+    display: flex;
+    justify-content: space-evenly;
+}
+.titles{
+    display: flex;
+    justify-content: center;
+}
+.VehiculeImg{
+    height: 300px;
+    size: 200px;
+}
+.ClientImg{
+height: 300px;
+size: 200px;
+}
+.LocationImg{
+    height: 300px;
+    size: 200px;
+}
+.GestionLocationImg{
+    height: 300px;
+    size: 200px;
+}

@@ -1,0 +1,12 @@
+.Logo{
+    width: 200px;
+    height: 200px;
+}
+.navbar{
+    display: flex;
+}
+.gridBoxHome2{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
